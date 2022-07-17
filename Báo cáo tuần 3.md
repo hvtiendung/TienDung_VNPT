@@ -30,6 +30,7 @@ II. THỰC HÀNH:
 Sử dụng DB Browser for SQLite để kiểm tra và được kết quả như hình
 
 4. Tạo thông tin nhân viên:
+
 ![image](https://user-images.githubusercontent.com/107546980/179411542-e8213683-dc62-414c-8913-d87ee4df0212.png)
 
 5. Viết API tạo nhân viên, thông tin nhân viên, tất cả nhân viên có trong ds, cập nhật nhân viên, xóa nhân viên
