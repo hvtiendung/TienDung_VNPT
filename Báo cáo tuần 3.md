@@ -18,6 +18,8 @@ phone (string) <- unique (duy nhất)
 II. THỰC HÀNH:
 1. Thư viện được sử dụng: SQLite3
 2. Tạo class nhanvien
+![image](https://user-images.githubusercontent.com/107546980/179411486-5df286d9-f6c8-4545-a9a4-78bc5462a3db.png)
+
 3. Tạo bảng dữ liệu với tên là nhanvientable.db gồm có:
         ID_NhânViên string,
         Tên_NhânViên string,
@@ -26,5 +28,8 @@ II. THỰC HÀNH:
         Phone string
 ![image](https://user-images.githubusercontent.com/107546980/179411244-cc2f71c8-be2a-4f49-ac5b-701b846a842c.png)
 Sử dụng DB Browser for SQLite để kiểm tra và được kết quả như hình
-4. Tạo thông tin nhân viên
+
+4. Tạo thông tin nhân viên:
+![image](https://user-images.githubusercontent.com/107546980/179411542-e8213683-dc62-414c-8913-d87ee4df0212.png)
+
 5. Viết API tạo nhân viên, thông tin nhân viên, tất cả nhân viên có trong ds, cập nhật nhân viên, xóa nhân viên
